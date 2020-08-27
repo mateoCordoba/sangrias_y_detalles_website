@@ -1,0 +1,11 @@
+// Esta fuente primero fué agregada en el archivo: function.php
+$font_titulos:'Lobster', cursive;
+
+
+// Esta fuente fué desagada y traida desde un archivo en nuestro tema
+@font-face{
+    font-family:"Ricota";
+    src:url("/gulp-src/fonts/ricota/Ricota.otf");    
+}
+$font_subtitulos:"Ricota", sans-serif;
+
